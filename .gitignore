@@ -1,0 +1,16 @@
+# archivos generados por python
+__pycache__/
+*.py[cod]
+
+# archivos generados por pyinstaller (construir_exe.bat)
+build/
+dist/
+*.spec
+
+# entornos virtuales
+venv/
+.venv/
+
+# sistema
+Thumbs.db
+.DS_Store
